@@ -1,0 +1,21 @@
+{
+    "hills": [
+        {
+            "balance": 1,
+            "characteristics": [
+            ],
+            "country-code": "POL",
+            "distance-multiplier": 1,
+            "hs-point": 240,
+            "id": "eaed8a9c-a356-421e-a81f-52b3cd229d6c",
+            "k-point": 200,
+            "name": "Rzeszów",
+            "points-for-back-wind": 2,
+            "points-for-front-wind": 4.5,
+            "points-for-gate": 4.5,
+            "points-for-k-point": 120,
+            "points-for-meter": 1.2,
+            "record": 250
+        }
+    ]
+}
